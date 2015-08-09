@@ -1,0 +1,1 @@
+Lightweight Qt Desktop based on Antico Deluxe
